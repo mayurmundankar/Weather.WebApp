@@ -1,0 +1,21 @@
+Weather Web App
+
+This is a weather web app built using HTML, CSS, and Javascript. It uses the OpenWeathermap API to fetch real-time weather data for any city in the world. The app is simple and easy to use, and it provides users with all the essential weather information, including:
+
+Current temperature and humidity
+Wind speed and direction
+Atmospheric pressure
+Cloud cover
+Sunrise and sunset times
+Hourly and daily forecasts
+To use the app, simply enter the name of the city you want to view the weather for in the search bar and press enter. The app will then fetch the latest weather data and display it on the screen.
+
+Features:
+
+Real-time weather data for any city in the world
+Simple and easy to use interface
+Hourly and daily forecasts
+Customizable temperature unit (Celsius or Fahrenheit)
+Requirements:
+
+Web browser with JavaScript enabled
